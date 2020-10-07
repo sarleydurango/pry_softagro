@@ -1,0 +1,49 @@
+C:\Users\SARLEY\Documents\Copias de respaldo\Pry_WorkshopSena\Capa_Datos\bin\Debug\Capa_Datos.dll
+C:\Users\SARLEY\Documents\Copias de respaldo\Pry_WorkshopSena\Capa_Datos\bin\Debug\Capa_Datos.pdb
+C:\Users\SARLEY\Documents\Copias de respaldo\Pry_WorkshopSena\Capa_Datos\obj\Debug\Capa_Datos.csprojAssemblyReference.cache
+C:\Users\SARLEY\Documents\Copias de respaldo\Pry_WorkshopSena\Capa_Datos\obj\Debug\Capa_Datos.csproj.CoreCompileInputs.cache
+C:\Users\SARLEY\Documents\Copias de respaldo\Pry_WorkshopSena\Capa_Datos\obj\Debug\Capa_Datos.dll
+C:\Users\SARLEY\Documents\Copias de respaldo\Pry_WorkshopSena\Capa_Datos\obj\Debug\Capa_Datos.pdb
+D:\Proyectos\Pry_WorkshopSena\Capa_Datos\bin\Debug\Capa_Datos.dll
+D:\Proyectos\Pry_WorkshopSena\Capa_Datos\bin\Debug\Capa_Datos.pdb
+D:\Proyectos\Pry_WorkshopSena\Capa_Datos\obj\Debug\Capa_Datos.csprojAssemblyReference.cache
+D:\Proyectos\Pry_WorkshopSena\Capa_Datos\obj\Debug\Capa_Datos.csproj.CoreCompileInputs.cache
+D:\Proyectos\Pry_WorkshopSena\Capa_Datos\obj\Debug\Capa_Datos.dll
+D:\Proyectos\Pry_WorkshopSena\Capa_Datos\obj\Debug\Capa_Datos.pdb
+C:\Users\SARLEY\OneDrive\Repositorios de OneDrive\Projects\Pry_WorkshopSena\Capa_Datos\bin\Debug\Capa_Datos.dll
+C:\Users\SARLEY\OneDrive\Repositorios de OneDrive\Projects\Pry_WorkshopSena\Capa_Datos\bin\Debug\Capa_Datos.pdb
+C:\Users\SARLEY\OneDrive\Repositorios de OneDrive\Projects\Pry_WorkshopSena\Capa_Datos\obj\Debug\Capa_Datos.csprojAssemblyReference.cache
+C:\Users\SARLEY\OneDrive\Repositorios de OneDrive\Projects\Pry_WorkshopSena\Capa_Datos\obj\Debug\Capa_Datos.dll
+C:\Users\SARLEY\OneDrive\Repositorios de OneDrive\Projects\Pry_WorkshopSena\Capa_Datos\obj\Debug\Capa_Datos.pdb
+C:\Users\Hector_Rueda\OneDrive\Repositorios de OneDrive\Projects\Pry_WorkshopSena\Capa_Datos\obj\Debug\Capa_Datos.csprojAssemblyReference.cache
+C:\Users\Hector_Rueda\OneDrive\Repositorios de OneDrive\Projects\Pry_WorkshopSena\Capa_Datos\obj\Debug\Capa_Datos.csproj.CoreCompileInputs.cache
+C:\Users\Hector_Rueda\OneDrive\Repositorios de OneDrive\Projects\Pry_WorkshopSena\Capa_Datos\obj\Debug\Capa_Datos.dll
+C:\Users\Hector_Rueda\OneDrive\Repositorios de OneDrive\Projects\Pry_WorkshopSena\Capa_Datos\obj\Debug\Capa_Datos.pdb
+C:\Users\DAVID\OneDrive\Repositorios de OneDrive\Projects\Pry_WorkshopSena\Capa_Datos\bin\Debug\Capa_Datos.dll
+C:\Users\DAVID\OneDrive\Repositorios de OneDrive\Projects\Pry_WorkshopSena\Capa_Datos\bin\Debug\Capa_Datos.pdb
+C:\Users\DAVID\OneDrive\Repositorios de OneDrive\Projects\Pry_WorkshopSena\Capa_Datos\obj\Debug\Capa_Datos.csprojAssemblyReference.cache
+C:\Users\DAVID\OneDrive\Repositorios de OneDrive\Projects\Pry_WorkshopSena\Capa_Datos\obj\Debug\Capa_Datos.dll
+C:\Users\DAVID\OneDrive\Repositorios de OneDrive\Projects\Pry_WorkshopSena\Capa_Datos\obj\Debug\Capa_Datos.pdb
+C:\Users\SOPORTE\OneDrive\Repositorios de OneDrive\Projects\Pry_WorkshopSena\Capa_Datos\bin\Debug\Capa_Datos.dll
+C:\Users\SOPORTE\OneDrive\Repositorios de OneDrive\Projects\Pry_WorkshopSena\Capa_Datos\bin\Debug\Capa_Datos.pdb
+C:\Users\SOPORTE\OneDrive\Repositorios de OneDrive\Projects\Pry_WorkshopSena\Capa_Datos\obj\Debug\Capa_Datos.dll
+C:\Users\SOPORTE\OneDrive\Repositorios de OneDrive\Projects\Pry_WorkshopSena\Capa_Datos\obj\Debug\Capa_Datos.pdb
+C:\Users\Hector_Rueda\OneDrive\Repositorios de OneDrive\Projects\Pry_WorkshopSena\Capa_Datos\bin\Debug\Capa_Datos.dll
+C:\Users\Hector_Rueda\OneDrive\Repositorios de OneDrive\Projects\Pry_WorkshopSena\Capa_Datos\bin\Debug\Capa_Datos.pdb
+C:\Users\SARLEY\OneDrive\Repositorios de OneDrive\Projects\Pry_WorkshopSena\Capa_Datos\bin\Debug\Spire.License.dll
+C:\Users\SARLEY\OneDrive\Repositorios de OneDrive\Projects\Pry_WorkshopSena\Capa_Datos\bin\Debug\Spire.Pdf.dll
+C:\Users\SARLEY\OneDrive\Repositorios de OneDrive\Projects\Pry_WorkshopSena\Capa_Datos\bin\Debug\Microsoft.mshtml.dll
+C:\Users\SARLEY\OneDrive\Repositorios de OneDrive\Projects\Pry_WorkshopSena\Capa_Datos\bin\Debug\Spire.License.xml
+C:\Users\SARLEY\OneDrive\Repositorios de OneDrive\Projects\Pry_WorkshopSena\Capa_Datos\bin\Debug\Spire.Pdf.xml
+C:\Users\SARLEY\OneDrive\Repositorios de OneDrive\Projects\Pry_WorkshopSena\Capa_Datos\obj\Debug\Capa_Datos.csproj.CopyComplete
+C:\Users\SOPORTE\OneDrive\Repositorios de OneDrive\Projects\Pry_WorkshopSena\Capa_Datos\bin\Debug\Spire.Pdf.dll
+C:\Users\SOPORTE\OneDrive\Repositorios de OneDrive\Projects\Pry_WorkshopSena\Capa_Datos\bin\Debug\Microsoft.mshtml.dll
+C:\Users\SOPORTE\OneDrive\Repositorios de OneDrive\Projects\Pry_WorkshopSena\Capa_Datos\bin\Debug\Spire.License.xml
+C:\Users\SOPORTE\OneDrive\Repositorios de OneDrive\Projects\Pry_WorkshopSena\Capa_Datos\bin\Debug\Spire.Pdf.xml
+C:\Users\SOPORTE\OneDrive\Repositorios de OneDrive\Projects\Pry_WorkshopSena\Capa_Datos\obj\Debug\Capa_Datos.csprojAssemblyReference.cache
+C:\Users\SOPORTE\OneDrive\Repositorios de OneDrive\Projects\Pry_WorkshopSena\Capa_Datos\obj\Debug\Capa_Datos.csproj.CoreCompileInputs.cache
+C:\Users\SOPORTE\OneDrive\Repositorios de OneDrive\Projects\Pry_WorkshopSena\Capa_Datos\obj\Debug\Capa_Datos.csproj.CopyComplete
+C:\Users\DAVID\OneDrive\Repositorios de OneDrive\Projects\Pry_WorkshopSena\Capa_Datos\bin\Debug\Spire.License.dll
+C:\Users\DAVID\OneDrive\Repositorios de OneDrive\Projects\Pry_WorkshopSena\Capa_Datos\bin\Debug\Spire.License.xml
+C:\Users\DAVID\OneDrive\Repositorios de OneDrive\Projects\Pry_WorkshopSena\Capa_Datos\obj\Debug\Capa_Datos.csproj.CopyComplete
+C:\Users\DAVID\OneDrive\Repositorios de OneDrive\Projects\Pry_WorkshopSena\Capa_Datos\bin\Debug\Spire.Pdf.xml

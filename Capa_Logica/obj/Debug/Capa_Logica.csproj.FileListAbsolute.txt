@@ -1,0 +1,65 @@
+C:\Users\SARLEY\Documents\Copias de respaldo\Pry_WorkshopSena\Capa_Logica\bin\Debug\Capa_Logica.dll
+C:\Users\SARLEY\Documents\Copias de respaldo\Pry_WorkshopSena\Capa_Logica\bin\Debug\Capa_Logica.pdb
+C:\Users\SARLEY\Documents\Copias de respaldo\Pry_WorkshopSena\Capa_Logica\bin\Debug\Capa_Datos.dll
+C:\Users\SARLEY\Documents\Copias de respaldo\Pry_WorkshopSena\Capa_Logica\bin\Debug\Capa_Datos.pdb
+C:\Users\SARLEY\Documents\Copias de respaldo\Pry_WorkshopSena\Capa_Logica\obj\Debug\Capa_Logica.csprojAssemblyReference.cache
+C:\Users\SARLEY\Documents\Copias de respaldo\Pry_WorkshopSena\Capa_Logica\obj\Debug\Capa_Logica.csproj.CoreCompileInputs.cache
+C:\Users\SARLEY\Documents\Copias de respaldo\Pry_WorkshopSena\Capa_Logica\obj\Debug\Capa_Logica.csproj.CopyComplete
+C:\Users\SARLEY\Documents\Copias de respaldo\Pry_WorkshopSena\Capa_Logica\obj\Debug\Capa_Logica.dll
+C:\Users\SARLEY\Documents\Copias de respaldo\Pry_WorkshopSena\Capa_Logica\obj\Debug\Capa_Logica.pdb
+D:\Proyectos\Pry_WorkshopSena\Capa_Logica\bin\Debug\Capa_Logica.dll
+D:\Proyectos\Pry_WorkshopSena\Capa_Logica\bin\Debug\Capa_Logica.pdb
+D:\Proyectos\Pry_WorkshopSena\Capa_Logica\bin\Debug\Capa_Datos.dll
+D:\Proyectos\Pry_WorkshopSena\Capa_Logica\bin\Debug\Capa_Datos.pdb
+D:\Proyectos\Pry_WorkshopSena\Capa_Logica\obj\Debug\Capa_Logica.csprojAssemblyReference.cache
+D:\Proyectos\Pry_WorkshopSena\Capa_Logica\obj\Debug\Capa_Logica.csproj.CoreCompileInputs.cache
+D:\Proyectos\Pry_WorkshopSena\Capa_Logica\obj\Debug\Capa_Logica.csproj.CopyComplete
+D:\Proyectos\Pry_WorkshopSena\Capa_Logica\obj\Debug\Capa_Logica.dll
+D:\Proyectos\Pry_WorkshopSena\Capa_Logica\obj\Debug\Capa_Logica.pdb
+C:\Users\SARLEY\OneDrive\Repositorios de OneDrive\Projects\Pry_WorkshopSena\Capa_Logica\bin\Debug\Capa_Logica.dll
+C:\Users\SARLEY\OneDrive\Repositorios de OneDrive\Projects\Pry_WorkshopSena\Capa_Logica\bin\Debug\Capa_Logica.pdb
+C:\Users\SARLEY\OneDrive\Repositorios de OneDrive\Projects\Pry_WorkshopSena\Capa_Logica\bin\Debug\Capa_Datos.dll
+C:\Users\SARLEY\OneDrive\Repositorios de OneDrive\Projects\Pry_WorkshopSena\Capa_Logica\bin\Debug\Capa_Datos.pdb
+C:\Users\SARLEY\OneDrive\Repositorios de OneDrive\Projects\Pry_WorkshopSena\Capa_Logica\obj\Debug\Capa_Logica.csprojAssemblyReference.cache
+C:\Users\SARLEY\OneDrive\Repositorios de OneDrive\Projects\Pry_WorkshopSena\Capa_Logica\obj\Debug\Capa_Logica.csproj.CopyComplete
+C:\Users\SARLEY\OneDrive\Repositorios de OneDrive\Projects\Pry_WorkshopSena\Capa_Logica\obj\Debug\Capa_Logica.dll
+C:\Users\SARLEY\OneDrive\Repositorios de OneDrive\Projects\Pry_WorkshopSena\Capa_Logica\obj\Debug\Capa_Logica.pdb
+C:\Users\DAVID\OneDrive\Repositorios de OneDrive\Projects\Pry_WorkshopSena\Capa_Logica\bin\Debug\Capa_Logica.dll
+C:\Users\DAVID\OneDrive\Repositorios de OneDrive\Projects\Pry_WorkshopSena\Capa_Logica\bin\Debug\Capa_Logica.pdb
+C:\Users\DAVID\OneDrive\Repositorios de OneDrive\Projects\Pry_WorkshopSena\Capa_Logica\bin\Debug\Capa_Datos.dll
+C:\Users\DAVID\OneDrive\Repositorios de OneDrive\Projects\Pry_WorkshopSena\Capa_Logica\bin\Debug\Capa_Datos.pdb
+C:\Users\DAVID\OneDrive\Repositorios de OneDrive\Projects\Pry_WorkshopSena\Capa_Logica\obj\Debug\Capa_Logica.csprojAssemblyReference.cache
+C:\Users\DAVID\OneDrive\Repositorios de OneDrive\Projects\Pry_WorkshopSena\Capa_Logica\obj\Debug\Capa_Logica.csproj.CopyComplete
+C:\Users\DAVID\OneDrive\Repositorios de OneDrive\Projects\Pry_WorkshopSena\Capa_Logica\obj\Debug\Capa_Logica.dll
+C:\Users\DAVID\OneDrive\Repositorios de OneDrive\Projects\Pry_WorkshopSena\Capa_Logica\obj\Debug\Capa_Logica.pdb
+C:\Users\Hector_Rueda\OneDrive\Repositorios de OneDrive\Projects\Pry_WorkshopSena\Capa_Logica\obj\Debug\Capa_Logica.csprojAssemblyReference.cache
+C:\Users\Hector_Rueda\OneDrive\Repositorios de OneDrive\Projects\Pry_WorkshopSena\Capa_Logica\obj\Debug\Capa_Logica.csproj.CoreCompileInputs.cache
+C:\Users\Hector_Rueda\OneDrive\Repositorios de OneDrive\Projects\Pry_WorkshopSena\Capa_Logica\obj\Debug\Capa_Logica.dll
+C:\Users\Hector_Rueda\OneDrive\Repositorios de OneDrive\Projects\Pry_WorkshopSena\Capa_Logica\obj\Debug\Capa_Logica.pdb
+C:\Users\SOPORTE\OneDrive\Repositorios de OneDrive\Projects\Pry_WorkshopSena\Capa_Logica\bin\Debug\Capa_Logica.dll
+C:\Users\SOPORTE\OneDrive\Repositorios de OneDrive\Projects\Pry_WorkshopSena\Capa_Logica\bin\Debug\Capa_Logica.pdb
+C:\Users\SOPORTE\OneDrive\Repositorios de OneDrive\Projects\Pry_WorkshopSena\Capa_Logica\bin\Debug\Capa_Datos.dll
+C:\Users\SOPORTE\OneDrive\Repositorios de OneDrive\Projects\Pry_WorkshopSena\Capa_Logica\bin\Debug\Capa_Datos.pdb
+C:\Users\SOPORTE\OneDrive\Repositorios de OneDrive\Projects\Pry_WorkshopSena\Capa_Logica\obj\Debug\Capa_Logica.dll
+C:\Users\SOPORTE\OneDrive\Repositorios de OneDrive\Projects\Pry_WorkshopSena\Capa_Logica\obj\Debug\Capa_Logica.pdb
+C:\Users\Hector_Rueda\OneDrive\Repositorios de OneDrive\Projects\Pry_WorkshopSena\Capa_Logica\bin\Debug\Capa_Logica.dll
+C:\Users\Hector_Rueda\OneDrive\Repositorios de OneDrive\Projects\Pry_WorkshopSena\Capa_Logica\bin\Debug\Capa_Logica.pdb
+C:\Users\Hector_Rueda\OneDrive\Repositorios de OneDrive\Projects\Pry_WorkshopSena\Capa_Logica\bin\Debug\Capa_Datos.dll
+C:\Users\Hector_Rueda\OneDrive\Repositorios de OneDrive\Projects\Pry_WorkshopSena\Capa_Logica\bin\Debug\Capa_Datos.pdb
+C:\Users\Hector_Rueda\OneDrive\Repositorios de OneDrive\Projects\Pry_WorkshopSena\Capa_Logica\obj\Debug\Capa_Logica.csproj.CopyComplete
+C:\Users\SARLEY\OneDrive\Repositorios de OneDrive\Projects\Pry_WorkshopSena\Capa_Logica\bin\Debug\Spire.License.dll
+C:\Users\SARLEY\OneDrive\Repositorios de OneDrive\Projects\Pry_WorkshopSena\Capa_Logica\bin\Debug\Spire.Pdf.dll
+C:\Users\SARLEY\OneDrive\Repositorios de OneDrive\Projects\Pry_WorkshopSena\Capa_Logica\bin\Debug\Microsoft.mshtml.dll
+C:\Users\SARLEY\OneDrive\Repositorios de OneDrive\Projects\Pry_WorkshopSena\Capa_Logica\bin\Debug\Spire.License.xml
+C:\Users\SARLEY\OneDrive\Repositorios de OneDrive\Projects\Pry_WorkshopSena\Capa_Logica\bin\Debug\Spire.Pdf.xml
+C:\Users\SOPORTE\OneDrive\Repositorios de OneDrive\Projects\Pry_WorkshopSena\Capa_Logica\bin\Debug\Spire.Pdf.dll
+C:\Users\SOPORTE\OneDrive\Repositorios de OneDrive\Projects\Pry_WorkshopSena\Capa_Logica\bin\Debug\Microsoft.mshtml.dll
+C:\Users\SOPORTE\OneDrive\Repositorios de OneDrive\Projects\Pry_WorkshopSena\Capa_Logica\bin\Debug\Spire.License.xml
+C:\Users\SOPORTE\OneDrive\Repositorios de OneDrive\Projects\Pry_WorkshopSena\Capa_Logica\bin\Debug\Spire.Pdf.xml
+C:\Users\SOPORTE\OneDrive\Repositorios de OneDrive\Projects\Pry_WorkshopSena\Capa_Logica\obj\Debug\Capa_Logica.csprojAssemblyReference.cache
+C:\Users\SOPORTE\OneDrive\Repositorios de OneDrive\Projects\Pry_WorkshopSena\Capa_Logica\obj\Debug\Capa_Logica.csproj.CoreCompileInputs.cache
+C:\Users\SOPORTE\OneDrive\Repositorios de OneDrive\Projects\Pry_WorkshopSena\Capa_Logica\obj\Debug\Capa_Logica.csproj.CopyComplete
+C:\Users\DAVID\OneDrive\Repositorios de OneDrive\Projects\Pry_WorkshopSena\Capa_Logica\bin\Debug\Spire.License.dll
+C:\Users\DAVID\OneDrive\Repositorios de OneDrive\Projects\Pry_WorkshopSena\Capa_Logica\bin\Debug\Spire.License.xml
+C:\Users\DAVID\OneDrive\Repositorios de OneDrive\Projects\Pry_WorkshopSena\Capa_Logica\bin\Debug\Microsoft.mshtml.dll
+C:\Users\DAVID\OneDrive\Repositorios de OneDrive\Projects\Pry_WorkshopSena\Capa_Logica\bin\Debug\Spire.Pdf.xml

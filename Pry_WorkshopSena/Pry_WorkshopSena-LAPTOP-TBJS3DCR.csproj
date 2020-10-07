@@ -1,0 +1,299 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C19680F7-E4D4-4265-89DC-26F012912661}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Pry_WorkshopSena</RootNamespace>
+    <AssemblyName>Workshop</AssemblyName>
+    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>logo w%281%29.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.5.3">
+      <HintPath>..\..\..\..\Downloads\Design Dashboard Modern\Design Dashboard Modern\BUNIFU UI\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1358.0\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=15.3.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1358.0\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1358.0\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.14.0.314.76\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Spire.License, Version=1.3.7.46, Culture=neutral, PublicKeyToken=b1144360237c8b3f, processorArchitecture=MSIL">
+      <HintPath>..\packages\Spire.PDF.5.9.6\lib\net46\Spire.License.dll</HintPath>
+    </Reference>
+    <Reference Include="Spire.Pdf, Version=5.9.6.2046, Culture=neutral, PublicKeyToken=663f351905198cb3, processorArchitecture=MSIL">
+      <HintPath>..\packages\Spire.PDF.5.9.6\lib\net46\Spire.Pdf.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="TransControl_src">
+      <HintPath>..\..\..\..\Pictures\TransControl_src\TransControl_src\TransControl_src.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FrmAmbiente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAmbiente.Designer.cs">
+      <DependentUpon>FrmAmbiente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBienvenido.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBienvenido.Designer.cs">
+      <DependentUpon>FrmBienvenido.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCodigoEquipos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCodigoEquipos.Designer.cs">
+      <DependentUpon>FrmCodigoEquipos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmConfiguracion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmConfiguracion.Designer.cs">
+      <DependentUpon>FrmConfiguracion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmImpresion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmImpresion.Designer.cs">
+      <DependentUpon>FrmImpresion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmInfo.Designer.cs">
+      <DependentUpon>FrmInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPrincipal.Designer.cs">
+      <DependentUpon>FrmPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmRepuestos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmRepuestos.Designer.cs">
+      <DependentUpon>FrmRepuestos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTecnico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTecnico.Designer.cs">
+      <DependentUpon>FrmTecnico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmValidacionSalida.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmValidacionSalida.Designer.cs">
+      <DependentUpon>FrmValidacionSalida.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Dependencia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Dependencia.Designer.cs">
+      <DependentUpon>Frm_Dependencia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_PDF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_PDF.Designer.cs">
+      <DependentUpon>Frm_PDF.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OrdenTrabajoRealizada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OrdenTrabajoRealizada.Designer.cs">
+      <DependentUpon>OrdenTrabajoRealizada.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SqlServerTypes\Loader.cs" />
+    <EmbeddedResource Include="FrmAmbiente.resx">
+      <DependentUpon>FrmAmbiente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBienvenido.resx">
+      <DependentUpon>FrmBienvenido.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCodigoEquipos.resx">
+      <DependentUpon>FrmCodigoEquipos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmConfiguracion.resx">
+      <DependentUpon>FrmConfiguracion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmImpresion.resx">
+      <DependentUpon>FrmImpresion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmInfo.resx">
+      <DependentUpon>FrmInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPrincipal.resx">
+      <DependentUpon>FrmPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmRepuestos.resx">
+      <DependentUpon>FrmRepuestos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTecnico.resx">
+      <DependentUpon>FrmTecnico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmValidacionSalida.resx">
+      <DependentUpon>FrmValidacionSalida.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Dependencia.resx">
+      <DependentUpon>Frm_Dependencia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_PDF.resx">
+      <DependentUpon>Frm_PDF.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OrdenTrabajoRealizada.resx">
+      <DependentUpon>OrdenTrabajoRealizada.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Capa_Logica\Capa_Logica.csproj">
+      <Project>{04ac805d-ce0a-4043-bde3-f1e990b5b7fe}</Project>
+      <Name>Capa_Logica</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image%282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\left-arrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AcroPDFLib">
+      <Guid>{05BFD3F1-6319-4F30-B752-C7A22889BCC4}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="AxAcroPDFLib">
+      <Guid>{05BFD3F1-6319-4F30-B752-C7A22889BCC4}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\find-in-folder-button.png" />
+    <None Include="Resources\settings.png" />
+    <None Include="Resources\archive.png" />
+    <None Include="Resources\company.png" />
+    <None Include="Resources\file.png" />
+    <None Include="Resources\find-in-folder-button1.png" />
+    <None Include="Resources\floppy-disk.png" />
+    <None Include="Resources\icon%281%29.png" />
+    <None Include="Resources\add-user-symbol-of-interface.png" />
+    <None Include="Resources\packing-list.png" />
+    <None Include="Resources\floppy-disk1.png" />
+    <None Include="Resources\new-document-button.png" />
+    <None Include="Resources\printer%281%29.png" />
+    <None Include="Resources\pdf.png" />
+    <None Include="Resources\inventory.png" />
+    <None Include="Resources\view.png" />
+    <None Include="Resources\more-options.png" />
+    <None Include="Resources\previous.png" />
+    <None Include="Resources\add%281%29.png" />
+    <None Include="Resources\network.png" />
+    <None Include="Resources\padlock%281%29.png" />
+    <None Include="Resources\settings%282%29.png" />
+    <None Include="Resources\technical-support%281%29.png" />
+    <Content Include="logo w%281%29.ico" />
+    <None Include="Resources\logo w.png" />
+    <None Include="Resources\logo.png" />
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
