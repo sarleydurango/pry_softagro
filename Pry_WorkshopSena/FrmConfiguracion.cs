@@ -40,7 +40,7 @@ namespace Pry_WorkshopSena
             ClsEnviarCorreo ObjCorreo = new ClsEnviarCorreo();
             ObjCorreo.destinatario = lblcorreo2.Text;
             ObjCorreo.asunto = "Cambio de Contraseña";
-            ObjCorreo.mensaje = "Sr(a) " + LblNombre2.Text + " \n le informamos que su Contraseña ha sido Actualizada exitosamente, su nueva contraseña es .\nContraseña: " + TxtConfirmarNueva.Text +
+            ObjCorreo.mensaje = "Sr(a) " + LblNombre2.Text + " \n le informamos que su contraseña ha sido Actualizada exitosamente, su nueva contraseña es .\nContraseña: " + TxtConfirmarNueva.Text +
                 "\nFecha: " + DateTime.Now.ToLongDateString() + " Hora: " + DateTime.Now.ToLongTimeString();
             ObjCorreo.Func_Enviar();
         }
